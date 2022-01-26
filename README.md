@@ -22,3 +22,6 @@
     - htpasswd (Apache) - htpasswd <string>
     - CRC32 - crc32 <string>
     - Whirlpool - whirlpool <string>
+
+7. alfred-ip-address-workflow.alfredworkflow
+    - 显示当前ip
