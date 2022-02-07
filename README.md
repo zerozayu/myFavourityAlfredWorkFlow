@@ -25,3 +25,6 @@
 
 7. alfred-ip-address-workflow.alfredworkflow
     - 显示当前ip
+
+8. newhash
+    - 上面的那个对于字符串的支持有错误，也可能是我不会用，所以单独的字符串的md5我就用这个了。
